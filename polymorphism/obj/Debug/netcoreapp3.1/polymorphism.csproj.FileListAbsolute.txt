@@ -1,0 +1,13 @@
+/Users/tringuyen/RiderProjects/OOP/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.deps.json
+/Users/tringuyen/RiderProjects/OOP/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.runtimeconfig.json
+/Users/tringuyen/RiderProjects/OOP/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/OOP/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.dll
+/Users/tringuyen/RiderProjects/OOP/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.pdb
+/Users/tringuyen/RiderProjects/OOP/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/OOP/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/OOP/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/OOP/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/OOP/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/OOP/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.dll
+/Users/tringuyen/RiderProjects/OOP/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.pdb
+/Users/tringuyen/RiderProjects/OOP/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.genruntimeconfig.cache
